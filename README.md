@@ -16,7 +16,7 @@ El proyecto consolida en una sola interfaz las operaciones físicas, la eficienc
 
 ---
 
-## ✨ Características y Módulos Principales
+## Características y Módulos Principales
 
 El proyecto adopta una arquitectura *Multipage* en Streamlit, dividiendo el dominio del negocio en 5 módulos especializados:
 
@@ -44,7 +44,7 @@ El proyecto adopta una arquitectura *Multipage* en Streamlit, dividiendo el domi
 
 ---
 
-## 🏗️ Arquitectura y Tecnologías
+## Arquitectura y Tecnologías
 
 El despliegue de esta aplicación sigue las mejores prácticas de **DevOps e Infraestructura como Código (IaC)**, asegurando que el entorno sea escalable, reproducible y aislado.
 
