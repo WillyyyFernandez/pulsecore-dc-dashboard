@@ -8,9 +8,9 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-## 📋 Resumen Ejecutivo
+## Resumen Ejecutivo
 
-**PulseCore DC Operations Center** es una plataforma analítica integral y un panel de control interactivo diseñado para la gestión y monitoreo de un centro de datos Tier III de misión crítica ubicado en Querétaro, México. 
+**PulseCore DC Operations Center** es una plataforma analítica integral y un panel de control interactivo diseñado para la gestión y monitoreo de un centro de datos ficticio Tier III de misión crítica ubicado en Querétaro, México. 
 
 El proyecto consolida en una sola interfaz las operaciones físicas, la eficiencia energética, el cumplimiento de normativas de seguridad globales y la inteligencia de mercado del sector de Data Centers en México. Esta herramienta está pensada para proporcionar a ingenieros de instalaciones, gerentes de operaciones y tomadores de decisiones una visión de 360 grados sobre el estado de la infraestructura.
 
